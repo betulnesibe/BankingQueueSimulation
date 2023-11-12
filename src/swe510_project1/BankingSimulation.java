@@ -49,7 +49,6 @@ public class BankingSimulation {
 		 * In this case, since we know the length will not change for sure, the second option is used.
 		 */
 		
-		
 		// Project requirement: in a loop that creates 10 customers:
 		for(int i = 0; i < 10; i++) {
 			
